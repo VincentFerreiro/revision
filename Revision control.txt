@@ -1,0 +1,10 @@
+git clone https://github.com/VincentFerreiro/R-vision.git
+git init
+git config --global user.name vincent
+git config --global user.email vincent.ferreiro@hotmail.fr
+
+git status 
+git add .
+git commit -m "J'ai crée un fichier"
+git push origin main
+
